@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextGen/static/css/main.e6c13ad2.css",
+    "main.js": "/TextGen/static/js/main.5038e1e4.js",
+    "static/js/787.fb768f3e.chunk.js": "/TextGen/static/js/787.fb768f3e.chunk.js",
+    "index.html": "/TextGen/index.html",
+    "main.e6c13ad2.css.map": "/TextGen/static/css/main.e6c13ad2.css.map",
+    "main.5038e1e4.js.map": "/TextGen/static/js/main.5038e1e4.js.map",
+    "787.fb768f3e.chunk.js.map": "/TextGen/static/js/787.fb768f3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5038e1e4.js"
+  ]
+}
